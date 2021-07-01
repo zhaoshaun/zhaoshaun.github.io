@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-ZiEn (Shaun) ZHAO (赵梓恩) is currently an one-year-old cute boy at Xinxiang, China. He is now living with his kind grandparents and 15-year-old uncle. He just learnt to walk on his own and speak a litte bit (e.g. Mama, Papa). His current biggest interets focus on **EPS**, i.e., "**eating** all kinds of stuff", "**playing** all kinds of cars", and "**sleeping** whenever feeling tired".
+ZiEn (Shaun) ZHAO (赵梓恩) is currently an one-year-old cute boy in Xinxiang, China. He is now living with his kind grandparents and 15-year-old uncle. He just learnt to walk on his own and speak a litte bit (e.g. Mama, Papa). His current biggest interets focus on **EPS**, i.e., "**eating** all kinds of stuff", "**playing** all kinds of cars", and "**sleeping** whenever feeling tired".
 
-His [father](zhaozhen.me) and mother are busy with their own "working" or "researching" things, but he has a busy schedule for everyday as well: 
+His [father](http://zhaozhen.me/) and mother are busy with their own "working" or "researching" things, but he has a busy schedule for everyday as well: 
 - Getting up early at about 7 AM
 - **Eatting:** having breakfirst around 7:30 - 8:00 AM
 - **Playing:** playing his toys and reading books of **cars** till 9:00 AM
