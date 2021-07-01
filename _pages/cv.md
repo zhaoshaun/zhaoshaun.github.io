@@ -7,53 +7,41 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Computer Science, Massachusetts Institute of Technology, 2042
+* M.S. in Match, Massachusetts Institute of Technology, 2038
+* B.S. in Match, Tsinghua University, China, 2037
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* From 2045: Assistant Professor
+  *  Massachusetts Institute of Technology
+  * Duties included: Researching and Teaching.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2043: PostDoc Research Assistant
+  * Princeton University，
+  * Duties included: Physics.
+  * Supervisor: TBD.
+
+* Fall 2039: Research Assistant
+  * Stanford University,
+  * Duties included: Programming
+  * Supervisor: TBD.
+
+* Summer 2033: Research Assistant
+  * Duke University,
+  * Duties included: Math
+  * Supervisor: TBD.
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Doing Math
+* Programming
+* Playing Piano
+* Drawing
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
